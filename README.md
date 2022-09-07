@@ -1,3 +1,28 @@
+# React Single-Page Application Skeleton
+
+Initialized with create-react-app, custom fit to my own config. Useful starting point for any SPA I want to build.
+
+## Tech Used
+- React
+-- Modules
+-- Components
+--- Nav Bar
+--- Main Display
+--- Form Display
+-- Forms
+-- Basic State and Event cases
+--- Form submission / Redirection
+-- Basic Custom Hooks (Unless hook already written)
+--- Toggler
+--- API Fetcher 
+-- React Router
+--- Base 404 Catches
+--- Base Home Page
+--- Base pop-up form
+- Babel
+-- transpiling to JavaScript
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
