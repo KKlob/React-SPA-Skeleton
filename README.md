@@ -16,7 +16,7 @@ Initialized with create-react-app, custom fit to my own config. Useful starting 
     - Toggler
     - API Fetcher 
   - React Router
-    - Base 404 Catches
+    - Base 404 Catches - Redirects to Home Page
     - Base Home Page
     - Base Form Page
 - Babel
