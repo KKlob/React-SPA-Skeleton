@@ -18,7 +18,7 @@ Initialized with create-react-app, custom fit to my own config. Useful starting 
   - React Router
     - Base 404 Catches
     - Base Home Page
-    - Base pop-up form
+    - Base Form Page
 - Babel
   - transpiling to JavaScript
 
