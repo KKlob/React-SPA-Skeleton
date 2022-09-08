@@ -2,7 +2,7 @@ import React from 'react';
 
 function Component() {
     return (
-        <div>
+        <div className="Component">
             <p>This is a Component</p>
         </div>
     )
